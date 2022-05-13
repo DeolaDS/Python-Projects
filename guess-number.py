@@ -29,5 +29,9 @@ def computer_guess(x):
 
     print(f'Yay! The computer guessed your number, {guess}, correctly!')
 
+guess(20)
+'''"'play=''
+while play !='N':
+    guess(10)
 
-guess(10)
+    play = input("Do you want to continue (Y/N)? ").lower()'"'''
